@@ -3,7 +3,7 @@
 
 Program ini dibuat untuk mengelola daftar nilai mahasiswa menggunakan empat fungsi utama:
 
-1. Fungsi tambah()
+## 1. Fungsi tambah()
 
 Fungsi ini digunakan untuk menambahkan data mahasiswa baru.
 
@@ -24,7 +24,7 @@ Data dimasukkan ke list mahasiswa dalam bentuk dictionary:
 
 Program menampilkan pesan bahwa data berhasil ditambahkan.
 
-2. Fungsi tampilkan()
+## 2. Fungsi tampilkan()
 
 Digunakan untuk menampilkan seluruh data mahasiswa.
 
@@ -38,7 +38,7 @@ Jika ada data → tampilkan semua data dalam format:
 
 1. Nama | NIM: xxx | Nilai: yyy
 
-3. Fungsi hapus(nama)
+##  3. Fungsi hapus(nama)
 
 Digunakan untuk menghapus data berdasarkan nama mahasiswa.
 
@@ -52,7 +52,7 @@ Jika ditemukan → data dihapus.
 
 Jika tidak ditemukan → tampilkan pesan “Data tidak ditemukan”.
 
-4. Fungsi ubah(nama)
+## 4. Fungsi ubah(nama)
 
 Digunakan untuk mengubah data mahasiswa berdasarkan nama.
 
@@ -74,7 +74,7 @@ Program mengganti data lama dengan data yang baru.
 
 Jika tidak ditemukan → tampilkan pesan “Data tidak ditemukan”.
 
-5. Program Utama (Menu)
+##  5. Program Utama (Menu)
 
 Program menggunakan looping while True agar menu terus muncul.
 
