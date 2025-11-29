@@ -97,3 +97,13 @@ Jika pengguna memasukkan input selain 1–5 → program menampilkan “Pilihan t
 # FLOWCHART
 
 ![ss](https://github.com/user-attachments/assets/70690c52-1921-47aa-925a-1a914512c67a)
+
+# PROGRAM PYTHON
+
+## INPUT
+
+<img width="1920" height="1080" alt="ss1" src="https://github.com/user-attachments/assets/5b64f9db-aec0-4328-8ae2-696294bb1724" />
+
+## OUTPUT
+
+<img width="1920" height="1080" alt="ss2" src="https://github.com/user-attachments/assets/af62cf46-1bea-4d0c-970a-1639bab2e38a" />
